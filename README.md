@@ -1,0 +1,3 @@
+This is a simple fast-food restaurant website. I have created it for the beginner. Let's get started...
+You can visit the live website 
+https://dev-mahamudul.github.io/simple-fast-food-restaurant/
